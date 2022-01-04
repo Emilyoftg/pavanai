@@ -244,7 +244,7 @@ Music download modules, for those who love music.
 
 <b>YouTube Thumbnail Download</b>
 • /ytthumb (youtube link)
-<b>Example:</b> <code>/ytthumb https://youtu.be/h6PtzFYaMxQ</code>
+<b>Example:</b> <code>/ytthumb https://youtu.be/NN1z7yKOzTs</code>
 
 <b>NOTE:</b>
 • Bot should have admin privillage.
