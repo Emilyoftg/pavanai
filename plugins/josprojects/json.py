@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) @ZauteKm
+# Copyright (C) @NickxFury
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -31,7 +31,7 @@ async def jsonify(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="✗ close ✗",
+                        text="Close 🔒",
                         callback_data="close_data"
                     )
                 ]
@@ -45,7 +45,7 @@ async def jsonify(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="✗ close ✗",
+                        text="Close 🔒",
                         callback_data="close_data"
                     )
                 ]
