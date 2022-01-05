@@ -1,6 +1,6 @@
 echo "Cloning Repo, Please Wait..."
-git clone -b master https://github.com/Emilyoftg/John-Konnai.git /John-Konnai
-cd /John-Konnai
+git clone -b master https://github.com/Emilyoftg/pavanai.git /pavanai
+cd /pavanai
 echo "Installing Requirements..."
 pip3 install -U -r requirements.txt
 echo "Starting Bot, Please Wait..."
